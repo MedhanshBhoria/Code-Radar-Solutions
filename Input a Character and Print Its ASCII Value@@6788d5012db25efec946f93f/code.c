@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    char x;
-    scanf("%c",x);
-    int y = char(x);
-    printf("%d",y);
+    char ch;
+    scanf("%c", &ch);
+    printf("ASCII Value: %d",ch);
+
     return 0;
 }
