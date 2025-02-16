@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main(){
     int a;
-    scanf("%d",&x);
+    scanf("%d",&a);
     if(a>=90){
         printf("A");
     }
